@@ -86,24 +86,32 @@ just remember that you can't purchase success!
 
 # Curriculum
 
-- [Prerequisites](#prerequisites)
-- [Intro CS](#intro-cs)
-- [Core CS](#core-cs)
-  - [Core programming](#core-programming)
-  - [Core math](#core-math)
-  - [CS Tools](#cs-tools)
-  - [Core systems](#core-systems)
-  - [Core theory](#core-theory)
-  - [Core security](#core-security)
-  - [Core applications](#core-applications)
-  - [Core ethics](#core-ethics)
-- [Advanced CS](#advanced-cs)
-  - [Advanced programming](#advanced-programming)
-  - [Advanced systems](#advanced-systems)
-  - [Advanced theory](#advanced-theory)
-  - [Advanced information security](#advanced-information-security)
-  - [Advanced math](#advanced-math)
-- [Final project](#final-project)
+- [Contents](#contents)
+- [Summary](#summary)
+- [Community](#community)
+- [Curriculum](#curriculum)
+  - [Prerequisites](#prerequisites)
+  - [Intro CS ✅](#intro-cs-)
+  - [Core CS](#core-cs)
+    - [Core programming](#core-programming)
+    - [Core math](#core-math)
+    - [CS Tools](#cs-tools)
+    - [Core systems](#core-systems)
+    - [Core theory](#core-theory)
+    - [Core security](#core-security)
+    - [Core applications](#core-applications)
+    - [Core ethics](#core-ethics)
+  - [Advanced CS](#advanced-cs)
+    - [Advanced programming](#advanced-programming)
+    - [Advanced systems](#advanced-systems)
+    - [Advanced theory](#advanced-theory)
+    - [Advanced Information Security](#advanced-information-security)
+    - [Advanced math](#advanced-math)
+  - [Final project](#final-project)
+  - [Congratulations](#congratulations)
+- [Code of conduct](#code-of-conduct)
+  - [How to show your progress](#how-to-show-your-progress)
+- [Team](#team)
 
 ---
 
@@ -114,7 +122,7 @@ just remember that you can't purchase success!
 and is knowledgeable enough now to decide which electives to take.
 - Note that [Advanced systems](#advanced-systems) assumes the student has taken a basic physics course (e.g. AP Physics in high school).
 
-## Intro CS
+## Intro CS ✅
 
 This course will introduce you to the world of computer science and programming. This course gives you a flavor of the material to come. If you finish the course wanting more, Computer Science is likely for you!
 
